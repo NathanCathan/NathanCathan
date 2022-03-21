@@ -1,0 +1,4 @@
+- I'm Nathan
+- I do programming
+- Mainly use C# although looking to expand to C/C++
+- I got discord - Cathan#5377
